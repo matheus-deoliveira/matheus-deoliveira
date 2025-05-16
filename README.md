@@ -1,5 +1,10 @@
 # Hello World! I'm Matheus, a Brasilian Web Developer 👋 :
-🔭 Currently working on<br>Software engineering intern at LabES/UFES, building academic software solutions. Note: Many C#/Java projects are private due to government work regulations - public repos contain personal/freelance work.<br><br>🌱 Currently learning<br>Full-stack web development with Spring Boot (Java) and React.js, while diving deeper into software architecture and clean code practices.<br><br>💬 Ask me about<br>Spring backend development, API design, or transitioning from academic to production code! Happy to share UFES experiences too.<br><br>⚡ Fun fact<br>When not debugging, I'm either: ① absorbing tech podcasts ② burning kitchen experiments ③ lifting weights to compensate for hours spent sitting 💻→💪
+🔭 Currently working on<br>Software engineering intern at LabES/UFES, building academic software solutions. Note: Many C#/Java projects are private due to government work regulations - public repos contain personal/freelance work.<br><br>🌱 Currently learning<br>Full-stack web development with Spring Boot (Java) and React.js, while diving deeper into software architecture and clean code practices.<br><br>💬 Ask me about<br>Spring backend development, API design, or transitioning from academic to production code! Happy to share UFES experiences too.<br><br>
+⚡ Fun fact<br>
+When not debugging, I'm either:<br>
+&emsp;① Absorbing tech podcasts<br>
+&emsp;② Burning kitchen experiments<br>
+&emsp;③ Lifting weights to compensate for hours spent sitting 💻→💪
 
 ###
 
