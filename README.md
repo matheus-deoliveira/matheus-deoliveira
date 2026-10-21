@@ -1,4 +1,4 @@
-###
+### Não importa como, eu resolvo.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/70MatheuS07/70MatheuS07/output/snake.svg" alt="Snake animation" />
